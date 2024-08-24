@@ -1,0 +1,14 @@
+{
+ "argv": [
+  "C:\\Users\\Toshiba\\Documents\\Kifiya\\week 0\\venv\\scripts\\python.exe",
+  "-m",
+  "ipykernel_launcher",
+  "-f",
+  "{connection_file}"
+ ],
+ "display_name": "Python (venv)",
+ "language": "python",
+ "metadata": {
+  "debugger": true
+ }
+}
